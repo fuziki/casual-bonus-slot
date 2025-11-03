@@ -2,6 +2,8 @@
 
 A simple slot game built with Unity, R3, and MVP architecture.
 
+![Gameplay Demo](docs/images/gameplay.gif)
+
 ## Overview
 
 A casual 1-line slot game that requires no timing skills. Built with reactive programming using R3 and clean MVP architecture.
