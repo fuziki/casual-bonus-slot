@@ -1,0 +1,16 @@
+# Ignore all files in Arts directory by default
+*
+
+# But keep the directory structure
+!.gitignore
+!*/
+
+# Keep all .meta files (required by Unity)
+!**/*.meta
+
+# Track all files under Public/ (publicly distributable assets)
+!Public/
+!Public/**
+
+# Never track .DS_Store files (macOS system files)
+.DS_Store
