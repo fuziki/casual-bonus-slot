@@ -2,7 +2,7 @@
 
 A simple slot game built with Unity, R3, and MVP architecture.
 
-![Gameplay Demo](docs/images/gameplay.gif)
+<img src="docs/images/gameplay.gif" width="200">
 
 ## Overview
 
